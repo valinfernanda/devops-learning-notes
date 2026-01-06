@@ -1,7 +1,3 @@
-This is my personal documentation on Networking, Security, and Orchestration of Docker. The documentation is currently written in Indonesian, but if you would like an English version, 
-I would be happy to translate it. The full documentation is available in a PDF located in the same folder.
-
-
 Task
 1. Create a Docker Compose file to run 2 services:
 A backend service

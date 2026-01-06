@@ -1,7 +1,4 @@
-This is my personal documentation on Linux and Unix Administration. The documentation is currently written in Indonesian, but if you would like an English version, 
-I would be happy to translate it. The full documentation is available in a PDF located in the same folder.
-
-
+Task
 Part 1:
 1. User & Group Creation
 ● Create 3 new users: user1, user2, user3.
